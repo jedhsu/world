@@ -1,0 +1,10 @@
+[package]
+name = "world"
+version = "0.1.0"
+authors = ["jedhsu@pm.me"]
+description = "RL environment modeling from the perspective of physical mechanics."
+readme = "README.md"
+license = "Apache"
+
+[dependencies]
+serde = "1.0"
